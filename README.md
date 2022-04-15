@@ -4,7 +4,7 @@
 -----------------------------------------------------------------     
 
 
-The Asian Modelica Conference 2020 is converted to virtual conference considering the current COVID-19 infection status at Tokyo. The conference date is the same as before, October 8–9, 2020. It is organized by [Modelon K.K.](https://www.modelon.com/) in cooperation with Modelica Users Group Japan and [Modelica Association](https://www.modelica.org/).
+The Asian Modelica Conference 2022 is converted to virtual conference considering the current COVID-19 infection status at Tokyo. The conference date is the same as before, October 8–9, 2020. It is organized by [Modelon K.K.](https://www.modelon.com/) in cooperation with Modelica Users Group Japan and [Modelica Association](https://www.modelica.org/).
 
 # About the Conference
 
