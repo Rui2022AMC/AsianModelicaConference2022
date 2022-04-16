@@ -81,7 +81,7 @@ Virtual conference is managed using [Whova](https://whova.com/). The participant
  -->
 # Organization and Contact
 
-The conference is organized by [Modelica Association](https://www.modelica.org/) in cooperation with Prof. Tielong Shen from [Sophia University](https://www.sophia.ac.jp/eng/index.html) and [Modelon K.K.](https://www.modelon.com/). For more information and application, please contact the [organizer](modelica2022asian@googlegroups.com).
+The conference is organized by [Modelica Association](https://www.modelica.org/) in cooperation with Prof. Tielong Shen from [Sophia University](https://www.sophia.ac.jp/eng/index.html) and [Modelon K.K.](https://www.modelon.com/). For more information and application, please contact the [organizer](mailto: modelica2022asian@googlegroups.com).
 
 ## Conference Board
 
