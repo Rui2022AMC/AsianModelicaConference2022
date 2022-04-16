@@ -85,18 +85,18 @@ The conference is organized by [Modelica Association](https://www.modelica.org/)
 
 ## Conference Board
 
-Prof. Tielong Shen, Sophia University, Tokyo, Japan
-Dr. Rui Gao, Modelon K.K., Tokyo, Japan
-Dr. Yutaka Hirano, Woven Planet Holdings, Inc., Tokyo, Japan
-Prof. Martin Otter, DLR, Germany
-Dr. Martin Sjölund, Linköping University, Sweden
-Dr. Michael Tiller, Xogeny, Michigan, USA
-Dr. Hubertus Tummescheit, Modelon AB, Lund, Sweden
+* Prof. Tielong Shen, Sophia University, Tokyo, Japan
+* Dr. Rui Gao, Modelon K.K., Tokyo, Japan
+* Dr. Yutaka Hirano, Woven Planet Holdings, Inc., Tokyo, Japan
+* Prof. Martin Otter, DLR, Germany
+* Dr. Martin Sjölund, Linköping University, Sweden
+* Dr. Michael Tiller, Xogeny, Michigan, USA
+* Dr. Hubertus Tummescheit, Modelon AB, Lund, Sweden
 
 
 ## Local Organization
 
-General chair: Prof. Tielong Shen, Sophia University
-Program chair: Dr. Yutaka Hirano, Woven Planet Holdings, Inc.
-Conference co-chair: Dr. Rui Gao, Modelon K.K.
+* General chair: Prof. Tielong Shen, Sophia University
+* Program chair: Dr. Yutaka Hirano, Woven Planet Holdings, Inc.
+* Conference co-chair: Dr. Rui Gao, Modelon K.K.
 
